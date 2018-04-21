@@ -21,13 +21,13 @@
  #### Travel itinerary
  ``` 
  Thai Lion Mentari Flight 801
- Jun 14-Confirmation #NN7302120250171
+ Jun 14-Confirmation #
  Krabi KBV   ✈   Bangkok DMK
  8:40 AM          10:10 AM
  ``` 
  ``` 
  Thai Lion Mentari Flight 801
- Jun 14-Confirmation #NN7302120250171
+ Jun 14-Confirmation #
  Krabi KBV  ✈    Bangkok DMK
  8:40 AM          10:10 AM
  ```
