@@ -13,27 +13,27 @@
   `08 June 2018`
   ```
   08Jun2018 | SriLankan Flight 406
-  Colombo CMB   ✈  Bangkok BKK
-  2:20 PM           7:25 PM
+  Colombo CMB     ✈  Bangkok BKK
+  2:20 PM             7:25 PM
   ``` 
   
   `09 June 2018`  
   ``` 
   09Jun2018 | Thai Lion Mentari Flight 760
-  Bangkok DMK  Phuket City HKT
-  4:05 PM      5:30 PM
+  Bangkok DMK     ✈  Phuket City HKT
+  4:05 PM             5:30 PM
   ``` 
   
   `14 June 2018`
   ``` 
   14Jun2018 | Thai Lion Mentari Flight 801
-  Krabi KBV  ✈    Bangkok DMK
-  8:40 AM          10:10 AM
+  Krabi KBV       ✈  Bangkok DMK
+  8:40 AM             10:10 AM
   ```
   ```
   14Jun2018 | SriLankan Flight 407
-  Bangkok BKK   ✈  Colombo CMB
-  8:25 PM           10:15 PM 
+  Bangkok BKK     ✈  Colombo CMB
+  8:25 PM             10:15 PM 
   ```
   `15 June 2018`
   ```
