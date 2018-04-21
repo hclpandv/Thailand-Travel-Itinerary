@@ -5,17 +5,17 @@
 ### Travel itinerary    
   `07 Jun 2018`
   ```
-  07Jun2018 | SriLankan Flight 196          07Jun2018 | SriLankan Flight 406
-  New Delhi DEL   ✈  Colombo CMB           Colombo CMB   ✈  Bangkok BKK
-  6:45 PM             10:20 PM              2:20 PM           7:25 PM
+  07Jun2018 | SriLankan Flight 196
+  New Delhi DEL   ✈  Colombo CMB
+  6:45 PM             10:20 PM   
   ```  
   
   `08 June 2018`
   ```
-  14Jun2018 | SriLankan Flight 407          15Jun2018 | SriLankan Flight 195
-  Bangkok BKK   ✈  Colombo CMB             Colombo CMB   ✈  New Delhi DEL
-  8:25 PM           10:15 PM                2:10 PM           5:45 PM
-  ```
+  08Jun2018 | SriLankan Flight 406
+  Colombo CMB   ✈  Bangkok BKK
+  2:20 PM           7:25 PM
+  ``` 
   
   `09 June 2018`  
   ``` 
@@ -30,4 +30,15 @@
   Krabi KBV  ✈    Bangkok DMK
   8:40 AM          10:10 AM
   ```
-
+  ```
+  14Jun2018 | SriLankan Flight 407
+  Bangkok BKK   ✈  Colombo CMB
+  8:25 PM           10:15 PM 
+  ```
+  `15 June 2018`
+  ```
+  15Jun2018 | SriLankan Flight 195
+  Colombo CMB   ✈  New Delhi DEL
+  2:10 PM           5:45 PM
+  ```
+  
