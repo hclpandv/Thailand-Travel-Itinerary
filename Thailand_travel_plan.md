@@ -4,6 +4,6 @@
 
 ### Flights Booked  
   
-  ✈ Srilankan Airlines 
+  `✈ Srilankan Airlines` 
 
 #### Travel itinerary 
