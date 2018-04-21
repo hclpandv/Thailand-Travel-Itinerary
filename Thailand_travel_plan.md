@@ -1,5 +1,7 @@
 # [Thailand](https://en.wikipedia.org/wiki/Thailand)
+
 ### Dates `07Jun2018 to 14Jun2018` 
+
 ### Flights Booked    
   `✈ Srilankan Airlines | Del-Bkk | 07Jun2018`
   ```
@@ -16,10 +18,4 @@
   Bangkok BKK   ✈  Colombo CMB             Colombo CMB   ✈  New Delhi DEL
   8:25 PM           10:15 PM                2:10 PM           5:45 PM
   ```
-  
-  
-
-
-
-  
-#### Travel itinerary 
+ #### Travel itinerary 
