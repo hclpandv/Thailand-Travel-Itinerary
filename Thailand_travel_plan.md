@@ -1,6 +1,6 @@
 # [Thailand](https://en.wikipedia.org/wiki/Thailand)
 
-## Dates : `07June18 to 14June18` 
+### Dates : `07Jun2018 to 14Jun2018` 
 
 ### Flights Booked
 
