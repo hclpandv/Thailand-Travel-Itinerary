@@ -34,7 +34,7 @@ Dinner and street trolling before a good night sleep.
 Getup Early, Breakfast Buffet  
 Skytrain, Head to Wat Arun, the temple of Dawn (Reach as early as possible)  
 Local Ferry ticket to reach other Wats in the same area and Palace  
-Heve Luncn, Riverside resturants 
+Have Luncn, Riverside resturants 
 Taxi to DMK Airport  
   
 ``` 
