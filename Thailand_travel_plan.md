@@ -4,7 +4,7 @@
 
 ### Travel itinerary  
 
-  `[Thu, 07 Jun 2018]`  
+#### `[Thu, 07 Jun 2018]`  
   
   ```
   07Jun2018 | SriLankan Flight 196
@@ -14,7 +14,7 @@
   Airport pickup from hotel (pls inform hotel in advance) - Oreeka Hotel Negombo  
   Check in and sleep
   
-  `[Fri, 08 Jun 2018]`
+ ####  `[Fri, 08 Jun 2018]`
   
   Getup early in the morning  
   Breakfast at Negombo beach  
@@ -29,7 +29,7 @@
   Hire Taxi and head to hotel - Sawasdee Hotel, Sukhumvit Soi 8  
   Dinner and street trolling before a good night sleep.  
   
-  `[Sat, 09 Jun 2018]`  
+ #### `[Sat, 09 Jun 2018]`  
   
   Getup Early, Breakfast Buffet  
   Skytrain, Head to Wat Arun, the temple of Dawn (Reach as early as possible)  
@@ -45,24 +45,24 @@
   Taxi to "The Gig Hotel", Patong beach  
   Head to Patong Beach and have drinks and dinner.    
   
-  `[Sun, 10 Jun 2018]`
+  #### `[Sun, 10 Jun 2018]`
   
   Phang Nga day tour covering Koh Hong.  
   
-  `[Mon, 11 Jun 2018]`
+  #### `[Mon, 11 Jun 2018]`
   
   Morning Ferry to Phi Phi   
   Reach Koh Phi Phi Don Beach   
   Evn Ferry to Krabi  
   hotel check in krabi Ao Nang  
   
-  `[Tue, 12 Jun 2018]`
+  #### `[Tue, 12 Jun 2018]`
    TBD  
-  `[Wed, 13 Jun 2018]`
+  #### `[Wed, 13 Jun 2018]`
    
    
    
-  `[Thu, 14 Jun 2018]`
+  #### `[Thu, 14 Jun 2018]`
   
   Taxi to krabi airport
   
@@ -77,7 +77,7 @@
   8:25 PM             10:15 PM 
   ```
   
-  `[Fri, 15 Jun 2018]`
+  #### `[Fri, 15 Jun 2018]`
   
   ```
   15Jun2018 | SriLankan Flight 195
