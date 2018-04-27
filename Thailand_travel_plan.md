@@ -48,24 +48,29 @@ Head to Patong Beach and have drinks and dinner.
 ***
 #### `[Sun, 10 Jun 2018]`
 
-Phang Nga day tour covering Koh Hong.  
+Beakfat Buffet 
+First Half  : Patong Beach, Other beaches (Karon or Kata or Kamla | depends on comfort)
+Second Half : Bunglow Market Stret
+Evening     : Rooftop pool, drinks and dinner 
 
 ***
 #### `[Mon, 11 Jun 2018]`
-  
-Morning Ferry to Phi Phi   
+
+Beakfast Buffet
+Morning 08:30 AM - Ferry to Phi Phi (Buy tickets with Hotel pickup)   
 Reach Koh Phi Phi Don Beach   
-Evn Ferry to Krabi  
-hotel check in krabi Ao Nang  
+Evn 03:00 PM Ferry to Krabi  
+hotel check in krabi Ao Nang - Ibis Styles, Ao Nang
 
 ***
 #### `[Tue, 12 Jun 2018]`
 
-TBD 
+Browse Beaches and relax
 
 ***
 #### `[Wed, 13 Jun 2018]`
 
+Phang Nga day tour covering Koh Hong.
 ***
 #### `[Thu, 14 Jun 2018]`
   
