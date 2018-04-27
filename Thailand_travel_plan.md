@@ -1,8 +1,6 @@
 # [Thailand](https://en.wikipedia.org/wiki/Thailand)
 
 ### Dates `07Jun2018 to 14Jun2018 | Travel itinerary` 
-***
-  
 
 #### `[Thu, 07 Jun 2018]`  
   
