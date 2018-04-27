@@ -2,85 +2,88 @@
 
 ### Dates `07Jun2018 to 14Jun2018 | Travel itinerary` 
 
-#### `[Thu, 07 Jun 2018]`  
-  
-  ```
-  07Jun2018 | SriLankan Flight 196
-  New Delhi DEL   ✈  Colombo CMB
-  6:45 PM             10:20 PM   
-  ```  
-  Airport pickup from hotel (pls inform hotel in advance) - Oreeka Hotel Negombo  
-  Check in and sleep
+#### `[Thu, 07 Jun 2018]`
+***  
+```
+07Jun2018 | SriLankan Flight 196
+New Delhi DEL   ✈  Colombo CMB
+6:45 PM             10:20 PM   
+```  
+Airport pickup from hotel (pls inform hotel in advance) - Oreeka Hotel Negombo  
+Check in and sleep
+
+####  `[Fri, 08 Jun 2018]`
 ***
- ####  `[Fri, 08 Jun 2018]`
+
+Getup early in the morning  
+Breakfast at Negombo beach  
+11:00 AM : Back to Airport 
   
-  Getup early in the morning  
-  Breakfast at Negombo beach  
-  11:00 AM : Back to Airport 
+```
+08Jun2018 | SriLankan Flight 406
+Colombo CMB     ✈  Bangkok BKK
+2:20 PM             7:25 PM
+```   
+Visa on Arrival process.  
+Hire Taxi and head to hotel - Sawasdee Hotel, Sukhumvit Soi 8  
+Dinner and street trolling before a good night sleep.  
+
+#### `[Sat, 09 Jun 2018]`
+***  
+Getup Early, Breakfast Buffet  
+Skytrain, Head to Wat Arun, the temple of Dawn (Reach as early as possible)  
+Local Ferry ticket to reach other Wats in the same area and Palace  
+Heve Luncn, Riverside resturants 
+Taxi to DMK Airport  
   
-  ```
-  08Jun2018 | SriLankan Flight 406
-  Colombo CMB     ✈  Bangkok BKK
-  2:20 PM             7:25 PM
-  ```   
-  Visa on Arrival process.  
-  Hire Taxi and head to hotel - Sawasdee Hotel, Sukhumvit Soi 8  
-  Dinner and street trolling before a good night sleep.  
- ***
- #### `[Sat, 09 Jun 2018]`  
+``` 
+09Jun2018 | Thai Lion Mentari Flight 760
+Bangkok DMK     ✈  Phuket City HKT
+4:05 PM             5:30 PM     
+```   
+Taxi to "The Gig Hotel", Patong beach  
+Head to Patong Beach and have drinks and dinner.    
+***
+#### `[Sun, 10 Jun 2018]`
+***
+Phang Nga day tour covering Koh Hong.  
+
+#### `[Mon, 11 Jun 2018]`
+***  
+Morning Ferry to Phi Phi   
+Reach Koh Phi Phi Don Beach   
+Evn Ferry to Krabi  
+hotel check in krabi Ao Nang  
+
+#### `[Tue, 12 Jun 2018]`
+***
+TBD 
+
+
+#### `[Wed, 13 Jun 2018]`
+***
+
+#### `[Thu, 14 Jun 2018]`
+***  
+Taxi to krabi airport
   
-  Getup Early, Breakfast Buffet  
-  Skytrain, Head to Wat Arun, the temple of Dawn (Reach as early as possible)  
-  Local Ferry ticket to reach other Wats in the same area and Palace  
-  Heve Luncn, Riverside resturants 
-  Taxi to DMK Airport  
+``` 
+14Jun2018 | Thai Lion Mentari Flight 801
+Krabi KBV       ✈  Bangkok DMK
+8:40 AM             10:10 AM
+```
+```
+14Jun2018 | SriLankan Flight 407
+Bangkok BKK     ✈  Colombo CMB
+8:25 PM             10:15 PM 
+```
   
-  ``` 
-  09Jun2018 | Thai Lion Mentari Flight 760
-  Bangkok DMK     ✈  Phuket City HKT
-  4:05 PM             5:30 PM     
-  ```   
-  Taxi to "The Gig Hotel", Patong beach  
-  Head to Patong Beach and have drinks and dinner.    
-  ***
-  #### `[Sun, 10 Jun 2018]`
-  
-  Phang Nga day tour covering Koh Hong.  
-  ***
-  #### `[Mon, 11 Jun 2018]`
-  
-  Morning Ferry to Phi Phi   
-  Reach Koh Phi Phi Don Beach   
-  Evn Ferry to Krabi  
-  hotel check in krabi Ao Nang  
-  ***
-  #### `[Tue, 12 Jun 2018]`
-   TBD 
-  ***
-  #### `[Wed, 13 Jun 2018]`
-   
-   
-   
-  #### `[Thu, 14 Jun 2018]`
-  
-  Taxi to krabi airport
-  
-  ``` 
-  14Jun2018 | Thai Lion Mentari Flight 801
-  Krabi KBV       ✈  Bangkok DMK
-  8:40 AM             10:10 AM
-  ```
-  ```
-  14Jun2018 | SriLankan Flight 407
-  Bangkok BKK     ✈  Colombo CMB
-  8:25 PM             10:15 PM 
-  ```
-  
-  #### `[Fri, 15 Jun 2018]`
-  
-  ```
-  15Jun2018 | SriLankan Flight 195
-  Colombo CMB   ✈  New Delhi DEL
-  2:10 PM           5:45 PM
-  ```
-  Reach delhi and rest all along weekend before office on `Mon, 18 Jun 2018` 
+#### `[Fri, 15 Jun 2018]`
+***
+
+```
+15Jun2018 | SriLankan Flight 195
+Colombo CMB   ✈  New Delhi DEL
+2:10 PM           5:45 PM
+```
+Reach delhi and rest all along weekend before office on `Mon, 18 Jun 2018` 
