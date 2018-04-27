@@ -49,8 +49,8 @@ Head to Patong Beach and have drinks and dinner.
 #### `[Sun, 10 Jun 2018]`
 
 Beakfat Buffet 
-First Half  : Patong Beach, Other beaches (Karon or Kata or Kamla | depends on comfort)
-Second Half : Bunglow Market Stret
+First Half  : Patong Beach, Other beaches (Karon or Kata or Kamla | depends on comfort)  
+Second Half : Bunglow Market Stret  
 Evening     : Rooftop pool, drinks and dinner 
 
 ***
