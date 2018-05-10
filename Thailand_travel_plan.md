@@ -16,8 +16,8 @@ Check in and stay overnight
 ####  `[Fri, 08 Jun 2018]`
 
 Getup early in the morning 
-Get Freshened, Use Swimming Pool with kids
-08:00 AM : Catch Uber and have breakfast at Negombo beach  
+Get Freshened, Use Swimming Pool with kids  
+08:00 AM : Catch Uber and have breakfast at Negombo beach    
 11:00 AM : Uber to Airport 
   
 ```
