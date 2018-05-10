@@ -1,5 +1,7 @@
 ## Halfday Bangkok City Tour
 
+Understand the Public Transport Map
+
 ![Screenshot](BTS-Map-Bangkok-Thailand.png)
 
 Skytrain, Head to Wat Arun, the temple of Dawn (Reach as early as possible)  
