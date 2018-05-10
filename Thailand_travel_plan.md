@@ -10,14 +10,15 @@ New Delhi DEL   ✈  Colombo CMB
 6:45 PM             10:20 PM   
 ```  
 Airport pickup from hotel (pls inform hotel in advance) - Oreeka Hotel Negombo  
-Check in and sleep
+Check in and stay overnight
 
 ***
 ####  `[Fri, 08 Jun 2018]`
 
-Getup early in the morning  
-Breakfast at Negombo beach  
-11:00 AM : Back to Airport 
+Getup early in the morning 
+Get Freshened, Use Swimming Pool with kids
+08:00 AM : Catch Uber and have breakfast at Negombo beach  
+11:00 AM : Uber to Airport 
   
 ```
 08Jun2018 | SriLankan Flight 406
@@ -25,13 +26,16 @@ Colombo CMB     ✈  Bangkok BKK
 2:20 PM             7:25 PM
 ```   
 Visa on Arrival process.  
-Hire Taxi and head to hotel - Sawasdee Hotel, Sukhumvit Soi 8  
-Dinner and street trolling before a good night sleep.  
+Hire Taxi (Uber or Grab app) and head to hotel - Sawasdee Hotel, Sukhumvit Soi 8  
+Dinner and Street trolling before a good night sleep.  
 
 ***
 #### `[Sat, 09 Jun 2018]`
 
-Getup Early, Breakfast Buffet  
+Getup Early, Breakfast Buffet
+
+
+
 Skytrain, Head to Wat Arun, the temple of Dawn (Reach as early as possible)  
 Local Ferry ticket to reach other Wats in the same area and Palace  
 Have Luncn, Riverside resturants 
