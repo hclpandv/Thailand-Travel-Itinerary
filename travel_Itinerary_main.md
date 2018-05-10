@@ -34,12 +34,8 @@ Dinner and Street trolling before a good night sleep.
 
 Getup Early, Breakfast Buffet
 
+[a relative link](halfday_bangkok_city_tour.md)
 
-
-Skytrain, Head to Wat Arun, the temple of Dawn (Reach as early as possible)  
-Local Ferry ticket to reach other Wats in the same area and Palace  
-Have Luncn, Riverside resturants 
-Taxi to DMK Airport  
   
 ``` 
 09Jun2018 | Thai Lion Mentari Flight 760
