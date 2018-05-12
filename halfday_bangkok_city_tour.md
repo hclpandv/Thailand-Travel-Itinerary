@@ -12,7 +12,7 @@ Understand the Public Transport Map
 10:00 AM : Walk to and Visit Wat Pho and Wat Arun  
 11:00 AM : Browse Nearby Market and have Lunch.  
   
-01:00 PM : Skytrain from BTS Saphan Taksin tp BTS Mo Chit(Change at BTS Siam)  
+01:00 PM : Skytrain from BTS Saphan Taksin to BTS Mo Chit(Change at BTS Siam)  
            A1 Shuttle Bus to DMK Airport(The bus parks at the bus stops just beside Chatuchak Park)
            Can use a direct taxi depending how time permits.  
 
