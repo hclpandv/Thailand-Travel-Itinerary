@@ -40,7 +40,7 @@ Getup Early, Breakfast Buffet
 ``` 
 09Jun2018 | Thai Lion Mentari Flight 760
 Bangkok DMK     ✈  Phuket City HKT
-4:05 PM             5:30 PM     
+3:35 PM             5:00 PM     
 ```   
 Taxi to "The Gig Hotel", Patong beach  
 Head to Patong Beach and have drinks and dinner.    
