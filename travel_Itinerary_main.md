@@ -84,6 +84,8 @@ Taxi to krabi airport
 Krabi KBV       ✈  Bangkok DMK
 8:40 AM             10:10 AM
 ```
+Taxi to safari world and Marine Park  
+(Alternative Plan)  
 Use Airport Shuttle to reach BTS Mo Chit  
 Skytrain from BTS Mo Chit to BTS Siam  
 Walk to MBK Shopping Mall and submit the baggage  
