@@ -16,7 +16,7 @@ Family Thaifood & Seafood, Aonang Soi 6, Ao Nang, Krabi
 
 11/1 Thaifood & Cocktail, Aonang soi 11/1, Ao Nang, Krabi
 
-Ao Nang Boat Noodle,689 Moo 2, Baan Ao Nang Road, Ao Nang, Krabi (200 Meters from ibis Styles Ao Nang)
+Ao Nang Boat Noodle,689 Moo 2, Baan Ao Nang Road, Ao Nang, Krabi (140 Meters from ibis Styles Ao Nang)
 
 
 
