@@ -48,7 +48,7 @@ Head to Patong Beach and have drinks and dinner.
 ***
 #### `[Sun, 10 Jun 2018]`
 
-Beakfat Buffet 
+Beakfast Buffet 
 First Half  : Patong Beach, Other beaches (Karon or Kata or Kamla | depends on comfort)
 ##### [Thailand Restaurants in Focus](thailand_restaurants_in_focus.md)
 Second Half : Bunglow Market Stret  
@@ -66,6 +66,8 @@ hotel check in krabi Ao Nang - Ibis Styles, Ao Nang
 ***
 #### `[Tue, 12 Jun 2018]`
 
+Beakfast Buffet
+Railey Beach Via Longtail Boat
 Browse Beaches and relax
 
 ***
@@ -82,6 +84,13 @@ Taxi to krabi airport
 Krabi KBV       ✈  Bangkok DMK
 8:40 AM             10:10 AM
 ```
+Use Airport Shuttle to reach BTS Mo Chit  
+Skytrain from BTS Mo Chit to BTS Siam  
+Walk to MBK Shopping Mall and submit the baggage  
+Browse Siam Paragon and other Shopping areas nearby.  
+Lunch at Foodcourt.  
+Use Skytrain and Airport Express train to Suwaranabhumi Airport
+
 ```
 14Jun2018 | SriLankan Flight 407
 Bangkok BKK     ✈  Colombo CMB
