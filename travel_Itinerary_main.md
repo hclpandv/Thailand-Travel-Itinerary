@@ -45,6 +45,8 @@ Bangkok DMK     ✈  Phuket City HKT
 Taxi to "The Gig Hotel", Patong beach  
 Head to Patong Beach and have drinks and dinner.    
 
+##### [Thailand Restorants in Focus](thailand_restaurants_in_focus.md)
+
 ***
 #### `[Sun, 10 Jun 2018]`
 
