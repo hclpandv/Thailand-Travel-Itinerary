@@ -45,13 +45,12 @@ Bangkok DMK     ✈  Phuket City HKT
 Taxi to "The Gig Hotel", Patong beach  
 Head to Patong Beach and have drinks and dinner.    
 
-##### [Thailand Restorants in Focus](thailand_restaurants_in_focus.md)
-
 ***
 #### `[Sun, 10 Jun 2018]`
 
 Beakfat Buffet 
-First Half  : Patong Beach, Other beaches (Karon or Kata or Kamla | depends on comfort)  
+First Half  : Patong Beach, Other beaches (Karon or Kata or Kamla | depends on comfort)
+##### [Thailand Restaurants in Focus](thailand_restaurants_in_focus.md)
 Second Half : Bunglow Market Stret  
 Evening     : Rooftop pool, drinks and dinner 
 
