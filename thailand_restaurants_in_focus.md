@@ -2,7 +2,7 @@
 
 ### Sukhumvit, Bangkok
 
-Foodland supermarket on Sukhumvit Soi 5 has everything you'd expect to find in a supermarket at reasonable prices -- and best of all, it's open 24 hours a day.(150 Meters from BTS Nana, opposite Amari Boulevard)  
+Foodland supermarket on Sukhumvit Soi 5 has everything you'd expect to find in a supermarket at reasonable prices and best of all, it's open 24 hours a day (150 Meters from BTS Nana, opposite Amari Boulevard)  
 
 Indulge Fusion Food & Cocktail Bar (400 Meters from BTS Nana)
 
