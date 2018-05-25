@@ -11,7 +11,7 @@ Took Lae Dee, within Foodland above. A Bangkok institution: imagine a long bar c
 Hong Kong Noodle, Soi 10 Siam Square. Serves up tasty wonton noodles (30 baht), a selection of dim sum (20-30 baht) and more Cantonese favorites in modern if utilitarian surroundings complete with air con, table service, etc. Excellent value (600 Meters from MBK Center)  
 ##### Food courts
 
-If you want cheap food and air-conditioning, head into the upper-floor food court of most any department store. Most food courts use some variation of a coupon system, but unused coupons/value can always be refunded. Some of the better ones include:  
+If you want budget food and air-conditioning, head into the upper-floor food court of most any department store. Most food courts use some variation of a coupon system, but unused coupons/value can always be refunded. Some of the better ones include:  
 
 MBK, 5F. Recently refurbished, cheap (less than B50 per serve) and popular, mostly Thai food. Pay by coupon.  
 
