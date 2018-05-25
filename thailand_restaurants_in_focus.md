@@ -8,8 +8,7 @@ Foodland supermarket on Sukhumvit Soi 5 has everything you'd expect to find in a
 
 Took Lae Dee, within Foodland above. A Bangkok institution: imagine a long bar counter, only with chefs and food instead of bartenders and drinks, and a colorful cast of characters thanks to Nana Plaza across the street. The name literally means Cheap and Good and indeed basic fried rice starts at 40 baht, but the cheap Western dishes, many less than 100 baht, are what makes this place popular. The American breakfast (two eggs, ham, bacon or sausage, juice, toast, coffee) in particular is a steal at 39B between 6-9 AM, or 55B at any other time. (150 Meters from BTS Nana)  
 
-Hong Kong Noodle, Soi 10 Siam Square. Serves up cheap and tasty wonton noodles (30 baht), a selection of dim sum (20-30 baht) and more Cantonese favorites in modern if utilitarian surroundings complete with air con, table service, etc. Excellent value. Open 10 AM to 10 PM. (600 Meters from MBK Center)
-
+Hong Kong Noodle, Soi 10 Siam Square. Serves up tasty wonton noodles (30 baht), a selection of dim sum (20-30 baht) and more Cantonese favorites in modern if utilitarian surroundings complete with air con, table service, etc. Excellent value (600 Meters from MBK Center)  
 ##### Food courts
 
 If you want cheap food and air-conditioning, head into the upper-floor food court of most any department store. Most food courts use some variation of a coupon system, but unused coupons/value can always be refunded. Some of the better ones include:  
