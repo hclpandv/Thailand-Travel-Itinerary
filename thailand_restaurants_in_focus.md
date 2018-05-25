@@ -2,7 +2,9 @@
 
 ### Sukhumvit, Bangkok
 
-Foodland supermarket on Sukhumvit Soi 5 (BTS Nana, opposite Amari Boulevard) has everything you'd expect to find in a supermarket at reasonable prices -- and best of all, it's open 24 hours a day.
+Foodland supermarket on Sukhumvit Soi 5 (BTS Nana, opposite Amari Boulevard) has everything you'd expect to find in a supermarket at reasonable prices -- and best of all, it's open 24 hours a day.  
+
+Indulge Fusion Food & Cocktail Bar (400 Meters from BTS Nana)
 
 ***
 ### Patong Beach, Phuket
