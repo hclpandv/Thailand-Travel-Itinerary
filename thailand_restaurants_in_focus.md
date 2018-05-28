@@ -21,8 +21,6 @@ MBK, 5F. Recently refurbished, good value for money (less than B50 per serve) an
 
 Yo Green Vegan & Vegetarian Restaurant, 54/9 Bangla Road (550 Meters from The Gig Hotel)
 
-No.9 2nd Restaurant
-
 sabai sabai restaurant patong Tambon Patong (900 Meters from the Gig Hotel)
 
 The Sweet Restaurant, 83150 100/29 Soi Post Office Thaweewong Rd, Pa Tong (1 KM from the Gig Hotel)
